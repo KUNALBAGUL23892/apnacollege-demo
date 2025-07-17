@@ -1,0 +1,23 @@
+{
+  "name": "apnacollege-demo",
+  "version": "1.0.0",
+  "description": "this is my first Git Repository\r <br>\r Author - Kunal Bagul",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KUNALBAGUL23892/apnacollege-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KUNALBAGUL23892/apnacollege-demo/issues"
+  },
+  "homepage": "https://github.com/KUNALBAGUL23892/apnacollege-demo#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
